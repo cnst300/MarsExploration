@@ -1,5 +1,6 @@
 # Mars Exploration
 
+![image](https://github.com/cnst300/MarsExploration/assets/111741263/90d848ee-dd43-4a3e-8096-cc6ae0549010)
 
 
 ## Description
